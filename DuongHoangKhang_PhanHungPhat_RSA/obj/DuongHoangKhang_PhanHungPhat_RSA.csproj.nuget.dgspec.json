@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HUFLIT\\KỸ THUẬT MẬT MÃ\\LÝ THUYẾT\\RSA-PhanHungPhat-DuongHoangKhang\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj": {}
+    "C:\\Users\\NHI\\Desktop\\Simple-RSA-Algorithm\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj": {}
   },
   "projects": {
-    "D:\\HUFLIT\\KỸ THUẬT MẬT MÃ\\LÝ THUYẾT\\RSA-PhanHungPhat-DuongHoangKhang\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj": {
+    "C:\\Users\\NHI\\Desktop\\Simple-RSA-Algorithm\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HUFLIT\\KỸ THUẬT MẬT MÃ\\LÝ THUYẾT\\RSA-PhanHungPhat-DuongHoangKhang\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj",
+        "projectUniqueName": "C:\\Users\\NHI\\Desktop\\Simple-RSA-Algorithm\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj",
         "projectName": "DuongHoangKhang_PhanHungPhat_RSA",
-        "projectPath": "D:\\HUFLIT\\KỸ THUẬT MẬT MÃ\\LÝ THUYẾT\\RSA-PhanHungPhat-DuongHoangKhang\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj",
+        "projectPath": "C:\\Users\\NHI\\Desktop\\Simple-RSA-Algorithm\\DuongHoangKhang_PhanHungPhat_RSA\\DuongHoangKhang_PhanHungPhat_RSA.csproj",
         "packagesPath": "C:\\Users\\NHI\\.nuget\\packages\\",
-        "outputPath": "D:\\HUFLIT\\KỸ THUẬT MẬT MÃ\\LÝ THUYẾT\\RSA-PhanHungPhat-DuongHoangKhang\\DuongHoangKhang_PhanHungPhat_RSA\\obj\\",
+        "outputPath": "C:\\Users\\NHI\\Desktop\\Simple-RSA-Algorithm\\DuongHoangKhang_PhanHungPhat_RSA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
